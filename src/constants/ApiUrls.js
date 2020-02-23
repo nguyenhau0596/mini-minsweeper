@@ -1,0 +1,1 @@
+export const GET_MINE_URL = 'https://tiki-minesweeper.herokuapp.com/getMines?size={size}&mines={mines}';
